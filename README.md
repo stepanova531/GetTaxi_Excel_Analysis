@@ -25,10 +25,17 @@ Assuming that the arriving time may be affected by the traffic jam during the ru
 
 Elaborate the compensations program or cash reward in case the driver has arrived later that the estimated time with the reasonable margin of allowance.
 # Further steps
+
 I assume that the two major factors that may affect the customers’ loyalty which are rite time and the cost of the ride.
+
 In addition to the relationship between canceled orders and the expected arriving time, the following factors should be analyzed:
+
 The estimated and real time of arrival.
+
 The cancelled orders and the declared cost.
+
 The variation of orders placed and the number of drivers who are ready to provide taxi services throughout the day, week.
+
 Analyze the trends on working days and weekends separately.
+
 Analyze the location of customers and the real disposition of the drivers during the busiest hours. Look at the insights that can provide the special analysis. 
